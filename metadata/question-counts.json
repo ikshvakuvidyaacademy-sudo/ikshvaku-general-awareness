@@ -1,29 +1,43 @@
 {
   "repository": "ikshvaku-general-awareness",
-  "total_questions": 499936,
+  "total_questions": 601936,
   "difficulty_distribution": {
-    "easy": 124984,
-    "hard": 124984,
-    "medium": 124984,
-    "very_hard": 124984
+    "easy": 150484,
+    "hard": 150484,
+    "medium": 150484,
+    "very_hard": 150484
   },
   "topic_distribution": {
+    "ancient-history": 6000,
     "ancient-medieval-history": 29408,
     "art-and-culture": 29408,
     "awards-and-honors": 29408,
+    "awards-honours-schemes": 6000,
     "biology": 29408,
-    "books-and-authors": 29408,
-    "chemistry": 29408,
+    "biology-life-sciences": 6000,
+    "books-and-authors": 35408,
+    "chemistry": 35408,
     "computer-awareness": 29408,
     "current-affairs": 29408,
     "economics": 29408,
     "environment-ecology": 29408,
+    "environmental-ecology": 6000,
+    "important-national-international-days": 6000,
+    "indian-economy": 6000,
     "indian-geography": 29408,
     "indian-polity": 29408,
+    "indian-polity-constitution": 6000,
+    "indian-world-geography": 6000,
+    "medieval-history": 6000,
     "modern-history": 29408,
+    "modern-history-national-movement": 6000,
+    "physical-geography": 6000,
     "physical-world-geography": 29408,
-    "physics": 29408,
+    "physics": 35408,
+    "science-and-technology": 6000,
     "sports": 29408,
-    "static-gk": 29408
+    "sports-and-trophies": 6000,
+    "static-gk": 29408,
+    "static-gk-culture-heritage": 6000
   }
 }
