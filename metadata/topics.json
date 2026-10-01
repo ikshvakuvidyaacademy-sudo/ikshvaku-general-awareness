@@ -1,0 +1,24 @@
+{
+  "system": "Ikshvaku General Awareness Taxonomy (SSC CGL & CHSL Standard)",
+  "version": "1.0.0",
+  "total_topics": 17,
+  "topics": [
+    { "slug": "indian-polity", "code": "POLITY", "name": "Indian Polity & Constitution", "subtopics": [{ "slug": "fundamental_rights", "name": "Fundamental Rights & DPSP" }, { "slug": "parliament_judiciary", "name": "Parliament & Judiciary" }] },
+    { "slug": "ancient-medieval-history", "code": "HIST", "name": "Ancient & Medieval History", "subtopics": [{ "slug": "indus_valley_vedic", "name": "Indus Valley & Vedic Period" }, { "slug": "delhi_sultanate_mughals", "name": "Delhi Sultanate & Mughals" }] },
+    { "slug": "modern-history", "code": "MODHIST", "name": "Modern History & Freedom Struggle", "subtopics": [{ "slug": "revolt_1857", "name": "Revolt of 1857 & Early Resistance" }, { "slug": "gandhian_era", "name": "Gandhian Era & Independence" }] },
+    { "slug": "indian-geography", "code": "GEOG", "name": "Indian Geography", "subtopics": [{ "slug": "river_systems", "name": "River Systems & Waterfalls" }, { "slug": "climate_soils", "name": "Climate, Vegetation & Soils" }] },
+    { "slug": "physical-world-geography", "code": "WGEOG", "name": "Physical & World Geography", "subtopics": [{ "slug": "solar_system_earth", "name": "Solar System & Lithosphere" }, { "slug": "continents_oceans", "name": "Continents, Straits & Oceans" }] },
+    { "slug": "economics", "code": "ECON", "name": "Indian Economy & Planning", "subtopics": [{ "slug": "banking_rbi", "name": "Banking System & RBI" }, { "slug": "fiscal_policy_inflation", "name": "Fiscal Policy, GDP & Inflation" }] },
+    { "slug": "physics", "code": "PHYS", "name": "General Physics", "subtopics": [{ "slug": "units_mechanics", "name": "Units, Dimensions & Mechanics" }, { "slug": "optics_sound", "name": "Optics, Heat & Sound" }] },
+    { "slug": "chemistry", "code": "CHEM", "name": "General Chemistry", "subtopics": [{ "slug": "chemical_compounds", "name": "Common Compounds & Everyday Life" }, { "slug": "periodic_table", "name": "Periodic Table & Metals" }] },
+    { "slug": "biology", "code": "BIO", "name": "General Biology", "subtopics": [{ "slug": "human_body_systems", "name": "Human Physiology & Diseases" }, { "slug": "vitamins_nutrition", "name": "Vitamins, Plant Physiology & Cells" }] },
+    { "slug": "art-and-culture", "code": "CULTURE", "name": "Art, Culture & Dance", "subtopics": [{ "slug": "classical_dances", "name": "Classical & Folk Dances" }, { "slug": "monuments_festivals", "name": "Historic Monuments & Fairs" }] },
+    { "slug": "books-and-authors", "code": "BOOKS", "name": "Books & Authors", "subtopics": [{ "slug": "ancient_classics", "name": "Historical Classics" }, { "slug": "contemporary_authors", "name": "Modern & Award-winning Authors" }] },
+    { "slug": "awards-and-honors", "code": "AWARDS", "name": "Awards & Honors", "subtopics": [{ "slug": "national_awards", "name": "Bharat Ratna & Padma Awards" }, { "slug": "international_awards", "name": "Nobel, Oscar & Booker Prizes" }] },
+    { "slug": "sports", "code": "SPORTS", "name": "Sports & Tournaments", "subtopics": [{ "slug": "olympics_asian_games", "name": "Olympics & Asian Games" }, { "slug": "cricket_trophies", "name": "Cricket, Football & Tennis Cups" }] },
+    { "slug": "static-gk", "code": "STATICGK", "name": "Static General Knowledge", "subtopics": [{ "slug": "national_parks_dams", "name": "National Parks & Wildlife Sanctuaries" }, { "slug": "international_orgs", "name": "Headquarters & International Bodies" }] },
+    { "slug": "computer-awareness", "code": "COMP", "name": "Computer Awareness", "subtopics": [{ "slug": "hardware_software", "name": "Hardware, Memory & OS" }, { "slug": "internet_security", "name": "Internet, Networking & Shortcuts" }] },
+    { "slug": "environment-ecology", "code": "ECOL", "name": "Ecology & Biodiversity", "subtopics": [{ "slug": "climate_treaties", "name": "Biosphere Reserves & Ramsar Sites" }] },
+    { "slug": "current-affairs", "code": "CA", "name": "Current Affairs & Government Schemes", "subtopics": [{ "slug": "government_schemes", "name": "Central Government Welfare Schemes" }] }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "repository": "ikshvaku-general-awareness",
+  "total_questions": 499936,
+  "difficulty_distribution": {
+    "easy": 124984,
+    "hard": 124984,
+    "medium": 124984,
+    "very_hard": 124984
+  },
+  "topic_distribution": {
+    "ancient-medieval-history": 29408,
+    "art-and-culture": 29408,
+    "awards-and-honors": 29408,
+    "biology": 29408,
+    "books-and-authors": 29408,
+    "chemistry": 29408,
+    "computer-awareness": 29408,
+    "current-affairs": 29408,
+    "economics": 29408,
+    "environment-ecology": 29408,
+    "indian-geography": 29408,
+    "indian-polity": 29408,
+    "modern-history": 29408,
+    "physical-world-geography": 29408,
+    "physics": 29408,
+    "sports": 29408,
+    "static-gk": 29408
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "system": "Ikshvaku Cognitive Difficulty Framework (ICDF) - General Awareness",
+  "version": "1.0.0",
+  "levels": {
+    "easy": { "level": "easy", "target_time_seconds": 20 },
+    "medium": { "level": "medium", "target_time_seconds": 35 },
+    "hard": { "level": "hard", "target_time_seconds": 50 },
+    "very_hard": { "level": "very_hard", "target_time_seconds": 75 }
+  }
+}
